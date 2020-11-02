@@ -1,4 +1,4 @@
-# Deployed at: https://navdeepsingh4298.github.io/aio-tv/
+# Deployed at: https://navdeepsingh4298.github.io/AIO-TV/
 
 
 # Getting Started with Create React App
