@@ -1,0 +1,11 @@
+.noMatch-container{
+  margin: 0 auto;
+  width: 80%;
+}
+.noMatch-container h1 {
+  font-size: 5rem;
+  margin: 2rem;
+}
+.noMatch-container h3 {
+  margin: 1.5rem;
+}
