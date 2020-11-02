@@ -70,6 +70,12 @@ const Newslinks = [
     img: "https://www.kgpl.net.in/upload/category/1561032371Sadhna.png",
     title: "Sadhna Plus News",
     source: "http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/playlist.m3u8"
+  },
+  {
+    id: 13,
+    img: "https://rstv.nic.in/wp-content/uploads/2016/12/rstv-logo.jpg",
+    title: "Rajya Sabha TV",
+    source: "https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8"
   }
 ]
 
