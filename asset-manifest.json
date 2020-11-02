@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/AIO-TV/static/css/main.d24c6340.chunk.css",
+    "main.js": "/AIO-TV/static/js/main.9455356f.chunk.js",
+    "main.js.map": "/AIO-TV/static/js/main.9455356f.chunk.js.map",
+    "runtime-main.js": "/AIO-TV/static/js/runtime-main.8a38289d.js",
+    "runtime-main.js.map": "/AIO-TV/static/js/runtime-main.8a38289d.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/AIO-TV/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0facfd83.chunk.js": "/AIO-TV/static/js/2.0facfd83.chunk.js",
+    "static/js/2.0facfd83.chunk.js.map": "/AIO-TV/static/js/2.0facfd83.chunk.js.map",
+    "index.html": "/AIO-TV/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/AIO-TV/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.d24c6340.chunk.css.map": "/AIO-TV/static/css/main.d24c6340.chunk.css.map",
+    "static/js/2.0facfd83.chunk.js.LICENSE.txt": "/AIO-TV/static/js/2.0facfd83.chunk.js.LICENSE.txt",
+    "static/media/AIOTV.60d7380f.svg": "/AIO-TV/static/media/AIOTV.60d7380f.svg",
+    "static/media/Welcome.377e412b.mp4": "/AIO-TV/static/media/Welcome.377e412b.mp4",
+    "static/media/welcome2.c8aebbc4.jpg": "/AIO-TV/static/media/welcome2.c8aebbc4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a38289d.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.0facfd83.chunk.js",
+    "static/css/main.d24c6340.chunk.css",
+    "static/js/main.9455356f.chunk.js"
+  ]
+}
