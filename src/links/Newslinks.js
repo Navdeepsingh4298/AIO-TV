@@ -76,7 +76,32 @@ const Newslinks = [
     img: "https://rstv.nic.in/wp-content/uploads/2016/12/rstv-logo.jpg",
     title: "Rajya Sabha TV",
     source: "https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8"
-  }
+  },
+  {
+    id: 14,
+    img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
+    title: "Lok Sabha TV",
+    source: "http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8"
+  },
+  {
+    id: 15,
+    img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
+    title: "Fastway TV",
+    source: "http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8"
+  },
+  {
+    id: 16,
+    img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
+    title: "IBC Comedy TV",
+    source: "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8"
+  },
+  {
+    id: 17,
+    img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
+    title: "Prime canada tv",
+    source: "http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8"
+  },
 ]
 
 export default Newslinks;
+

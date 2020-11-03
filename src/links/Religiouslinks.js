@@ -41,6 +41,18 @@ const Religiouslinks = [
     title: "Ishwar TV",
     source: "http://cdn.clive.in:1935/ishwartv/ishwartv.stream_HDp/playlist.m3u8"
   },
+  {
+    id: 8,
+    img: "https://1.bp.blogspot.com/-ZVISB5gEAJk/TvgcB5AgZsI/AAAAAAAABCQ/R7lZ7Qqtnvo/s1600/zkhanda+%25281%2529.png",
+    title: "Gurbani Healing",
+    source: "http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8"
+  },
+  {
+    id: 9,
+    img: "https://1.bp.blogspot.com/-ZVISB5gEAJk/TvgcB5AgZsI/AAAAAAAABCQ/R7lZ7Qqtnvo/s1600/zkhanda+%25281%2529.png",
+    title: "Sikh Channel",
+    source: "http://fastway.ddns.net:6421/fastway/live8/index.m3u8"
+  },
 ]
 
 export default Religiouslinks;

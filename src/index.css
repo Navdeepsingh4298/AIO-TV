@@ -9,3 +9,10 @@ html,body{
   height: 100%;
   width: 100%;
 }
+
+@media screen and (max-width: 740px){
+  html,body{
+    height: max-content;
+    width: max-content;
+  }
+}

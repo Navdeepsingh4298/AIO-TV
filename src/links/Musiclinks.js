@@ -7,21 +7,21 @@ const Musiclinks = [
   },
   {
     id: 2,
+    img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
+    title: "Naggara TV",
+    source: "http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8"
+  },
+  {
+    id: 3,
     img: "https://upload.wikimedia.org/wikipedia/en/6/6e/ATN_MH1_logo.png",
     title: "MH ONE",
     source: "https://rtmp.smartstream.video/mhonemusic/mhonemusic/playlist.m3u8"
   },
   {
-    id: 3,
-    img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
-    title: "24Relax",
-    source: "https://youtu.be/Fb0Se2mGkIQ"
-  },
-  {
     id: 4,
     img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
-    title: "Silk Music",
-    source: "https://youtu.be/WsDyRAPFBC8"
+    title: "IBC Music",
+    source: "https://ibcmusic-live.ibctamil.com/transcode/music.m3u8"
   },
   {
     id: 5,
@@ -32,3 +32,4 @@ const Musiclinks = [
 ]
 
 export default Musiclinks;
+

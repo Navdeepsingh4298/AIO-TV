@@ -17,8 +17,8 @@ function Navibar() {
           <Nav.Link href={process.env.REACT_APP_PUBLIC_URL + "/entertainment"}>Entertainment</Nav.Link>
           <Nav.Link href={process.env.REACT_APP_PUBLIC_URL + "/music"}>Music</Nav.Link>
           <Nav.Link href={process.env.REACT_APP_PUBLIC_URL + "/religious"}>Religious</Nav.Link>
-          <Nav.Link href={process.env.REACT_APP_PUBLIC_URL + "/movies"}>Movies</Nav.Link>
-          <Nav.Link href={process.env.REACT_APP_PUBLIC_URL + "/series"}>Series</Nav.Link>
+          {/* <Nav.Link href={process.env.REACT_APP_PUBLIC_URL + "/movies"}>Movies</Nav.Link>
+          <Nav.Link href={process.env.REACT_APP_PUBLIC_URL + "/series"}>Series</Nav.Link> */}
         </Nav>
       </Navbar>
     </div>

@@ -28,8 +28,8 @@ function App() {
           <Route path="/entertainment" component={Entertainment} />
           <Route path="/music" component={Music} />
           <Route path="/religious" component={Religious} />
-          <Route path="/movies" component={Movies} />
-          <Route path="/series" component={Series} />
+          {/* <Route path="/movies" component={Movies} />
+          <Route path="/series" component={Series} /> */}
           <Route path="/about" component={About} />
           <Route path="/play" component={PlayerPage} />
           <Route component={NoMatch} />

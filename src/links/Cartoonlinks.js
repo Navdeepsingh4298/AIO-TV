@@ -34,6 +34,12 @@ const Cartoonlinks = [
     img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
     title: "Persiana 3 JUNIOR",
     source: "http://51.158.74.129/hls/stream.m3u8"
+  },
+  {
+    id: 7,
+    img: "https://funtaqa.files.wordpress.com/2014/08/tv.png",
+    title: "Shemaroo Kids",
+    source: "https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8"
   }
 ]
 
